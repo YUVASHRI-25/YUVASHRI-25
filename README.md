@@ -1,7 +1,13 @@
-<!-- Gradient Name Header -->
+<!-- Galaxy Animated Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hi%20I'm%20Yuvashri&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
+
+<!-- Typing Animation -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yuvashri;Aspiring+Software+Developer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
 </h1>
 
 <p align="center">
@@ -47,15 +53,19 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito">
+<img src="https://leetcard.jacoblin.cool/YUVASHRI_01?theme=dark&font=Nunito">
 </p>
 
 ---
 
-# 🧊 3D Contribution Graph
+# 🧊 Contribution Activity
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUVASHRI-25&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YUVASHRI-25&theme=tokyonight&utcOffset=5.5">
 </p>
 
 ---
