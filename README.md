@@ -4,12 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yuvashri;Aspiring+Software+Developer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
 </h1>
 
-<!-- Girl Coding Animation -->
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YUVASHRI-25&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
@@ -37,7 +31,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YUVASHRI-25&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/YUVASHRI-25&show_icons=true&theme=tokyonight" height="170">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVASHRI-25&theme=tokyonight" height="170">
 </p>
 
@@ -54,7 +48,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YUVASHRI-25?theme=dark&font=Nunito">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito">
 </p>
 
 ---
