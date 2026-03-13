@@ -1,13 +1,13 @@
 <!-- Gradient Name Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yuvashri;Aspiring+Software+Developer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Yuvashri;Aspiring+Software+Developer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
 </h1>
 
-<!-- Animated Coding Banner -->
+<!-- Girl Coding Animation -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito">
+<img src="https://leetcard.jacoblin.cool/YUVASHRI-25?theme=dark&font=Nunito">
 </p>
 
 ---
@@ -63,14 +63,6 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUVASHRI-25&theme=tokyonight">
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YUVASHRI-25&theme=radical&margin-w=10"/>
 </p>
 
 ---
