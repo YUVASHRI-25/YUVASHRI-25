@@ -16,9 +16,9 @@
 
 * 🌱 Currently learning **Data Structures & Algorithms**
 * 💻 Practicing coding problems on **LeetCode**
-* 📊 Interested in **Data Analysis & AI**
+* 🤖 Interested in **Artificial Intelligence & Data Analysis**
 * 🚀 Love building **real-world projects**
-* 🎯 Goal: Become a **Software Engineer**
+* 🎯 Goal: Become a **Software Engineer & AI Engineer**
 
 ---
 
@@ -33,18 +33,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVASHRI-25&theme=tokyonight" height="170">
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,linux,html,css,js,react" />
 </p>
 
 ---
 
-# 📊 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVASHRI-25&layout=compact&theme=tokyonight">
-</p>
-
----
 
 # 🧠 LeetCode Stats
 
