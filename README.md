@@ -7,7 +7,7 @@
 <!-- Typing Animation -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+AI+ Engineer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+%26+AI+Engineer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
 </h1>
 
 ---
