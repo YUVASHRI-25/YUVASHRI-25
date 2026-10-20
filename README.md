@@ -1,193 +1,169 @@
-<!-- 🌌 Animated Header -->
+# ✦ YUVASHRI M. | AI ENGINEERING & INNOVATION
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hi%20I'm%20Yuvashri%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=YUVASHRI%20M.&fontSize=58&fontColor=FFFFFF&color=0:10002B,50:5A189A,100:00D4FF&stroke=00D4FF&strokeWidth=1&animation=twinkling&desc=Building%20Intelligence%2C%20One%20System%20at%20a%20Time&descSize=16&descAlignY=75" width="100%" alt="Yuvashri M. — AI Engineering and Innovation"/>
 </p>
 
-<!-- ✨ Typing Animation -->
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=F700FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Software+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+DeepStream+%7C+PyTorch;DSA+%7C+Problem+Solving+%7C+Continuous+Learning+%F0%9F%9A%80">
-</h1>
+<p align="center">
+  <a href="https://github.com/YUVASHRI-25"><img src="https://img.shields.io/badge/GitHub-YUVASHRI--25-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/yuvashri-m25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/YUVASHRI_01/"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 <p align="center">
-  <b>B.E. Computer Science & Engineering | AI & ML Enthusiast</b>
+  <code>AI/ML</code> &nbsp; <code>Generative AI</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>Problem Solving</code>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## `01` — THE PERSON BEHIND THE CODE
 
-🎓 Computer Science undergraduate with a strong foundation in **Data Structures & Algorithms** and Artificial Intelligence.
+Hi! I'm **Yuvashri**, a Computer Science and Engineering undergraduate passionate about turning ideas into intelligent, useful systems.
 
-🤖 Passionate about **Generative AI, Large Language Models, RAG, AI Agents, Machine Learning, and Computer Vision**.
+I’m particularly interested in the intersection of **Generative AI, LLM-powered applications, intelligent agents, and real-time computer vision**.
 
-🧠 Exploring **MCP, tool calling, semantic retrieval, embeddings, Transformers, and intelligent AI workflows**.
+Rather than stopping at understanding how a technology works, I want to explore how its components fit together to solve meaningful problems.
 
-💻 Experienced with **Python, Java, C, SQL, PyTorch, FastAPI, and modern AI/ML frameworks**.
+- 🧠 **Exploring:** LLMs, Retrieval-Augmented Generation (RAG), AI agents, MCP and tool calling.
+- 👁️ **Building toward:** Real-time computer vision, object detection, OCR and video AI.
+- ⚙️ **Strengthening:** Data Structures & Algorithms, backend development and ML fundamentals.
+- 🚀 **My direction:** Growing into an AI/ML Engineer who can develop, evaluate and deploy useful AI systems.
 
-👁️ Interested in building intelligent systems using **Computer Vision, NVIDIA DeepStream, OpenCV, DINO, SAM, and OCR**.
-
-📚 Currently strengthening my **DSA, problem-solving, AI/ML, and software engineering** skills.
-
-🎯 Goal: Build **scalable, production-oriented AI systems** and grow as an **AI/ML Engineer & Software Engineer**.
+> *I don't just want to use intelligence built by machines. I want to understand how to build it.*
 
 ---
 
-# 🛠️ Tech Stack
+## `02` — MY TECHNICAL UNIVERSE
 
-### 👨‍💻 Programming & DSA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql&perline=8" alt="Programming languages and web technologies"/>
+</p>
+
+### ◈ Generative AI & Intelligent Systems
+
+`LLMs` · `RAG` · `AI Agents` · `MCP` · `Tool Calling` · `Prompt Engineering` · `Embeddings` · `Semantic Search` · `Vector Retrieval`
+
+### ◈ Machine Learning & Deep Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=6" alt="Machine learning and computer vision tools"/>
 </p>
 
-**C • Python • Java • SQL • Data Structures & Algorithms**
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `Neural Networks` · `CNNs` · `Transformers`
 
----
+### ◈ Computer Vision & Video AI
 
-### 🤖 Generative AI & LLMs
+`OpenCV` · `NVIDIA DeepStream` · `PaddleOCR` · `DINO` · `SAM` · `Object Detection` · `Multi-Object Tracking` · `Real-Time Video Analytics`
+
+### ◈ Data, Backend & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,fastapi,postgres,mongodb,docker,aws&perline=7" alt="Data, backend and deployment tools"/>
 </p>
 
-**LLMs • RAG • AI Agents • LangChain • MCP • Prompt Engineering • Tool Calling • Embeddings • Vector Search**
+`NumPy` · `Pandas` · `FastAPI` · `REST APIs` · `PostgreSQL` · `MongoDB` · `Docker` · `AWS`
 
----
-
-### 🧠 Machine Learning & Deep Learning
+### ◈ My Development Workspace
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5" alt="Developer tools"/>
 </p>
 
-**PyTorch • Scikit-learn • CNNs • Transformers • Deep Learning • Machine Learning**
+`Git` · `GitHub` · `VS Code` · `Google Colab` · `Cursor` · `Claude Code` · `Codex`
 
 ---
 
-### 👁️ Computer Vision
-
-**OpenCV • NVIDIA DeepStream • PaddleOCR • DINO • SAM • Real-Time Video AI • Multi-Object Tracking**
-
----
-
-### 📊 Data Processing
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Pandas • NumPy • Data Analysis • Data Pipelines**
-
----
-
-### 🌐 Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,aws" />
-</p>
-
-**FastAPI • REST APIs • AWS**
-
----
-
-### 🔧 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
-
-**Git • GitHub • VS Code • Cursor • Google Colab • Codex • Claude Code**
-
----
-
-# 🧠 LeetCode
+## `03` — RECOGNITION & ACHIEVEMENTS
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YUVASHRI_01?theme=dark&font=Nunito">
+  <img src="https://img.shields.io/badge/STEAMIFIED%20HACKATHON-1st%20Place-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" alt="STEAMIFIED Hackathon first place"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HackZen%20%2726-1st%20Place-FFD700?style=for-the-badge&logo=target&logoColor=black" alt="HackZen 2026 first place"/>
 </p>
 
 <p align="center">
-<b>DSA • Problem Solving • Consistent Practice</b>
+  <img src="https://img.shields.io/badge/TSM--TECHNOVA%202026-3rd%20Place-CD7F32?style=for-the-badge&logo=google-scholar&logoColor=white" alt="TSM-TECHNOVA 2026 third place"/>
+</p>
+
+| Achievement | Recognition | Focus |
+|:--|:--:|:--|
+| STEAMIFIED Hackathon | 🥇 1st Place | Hackathon innovation |
+| HackZen '26 | 🥇 1st Place | Computer Vision · Creozen Ltd. |
+| TSM-TECHNOVA 2026 | 🥉 3rd Place | AI Innovation Challenge · TSM |
+
+*Every challenge is an opportunity to turn technical knowledge into something that works.*
+
+---
+
+## `04` — CERTIFICATIONS & CONTINUOUS LEARNING
+
+| Organization | Certification |
+|:--|:--|
+| NVIDIA | Deploying RAG Pipelines for Production at Scale |
+| NVIDIA | Building Real-Time Video AI Applications |
+| NVIDIA | Getting Started with Deep Learning |
+| NPTEL | Cloud Computing |
+| NPTEL | Internet of Things |
+
+---
+
+## `05` — THE PROBLEM-SOLVING LAB
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YUVASHRI_01?theme=dark&font=Nunito&ext=heatmap" width="80%" alt="LeetCode statistics and activity"/>
+</p>
+
+<p align="center">
+  <i>Learning to think clearly, solve efficiently, and write better code.</i>
 </p>
 
 ---
 
-# 📊 GitHub Activity
+## `06` — MY GITHUB IN MOTION
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUVASHRI-25&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUVASHRI-25&theme=tokyonight" width="100%" alt="GitHub contribution summary"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YUVASHRI-25&theme=tokyonight&utcOffset=5.5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YUVASHRI-25&theme=tokyonight" width="49%" alt="GitHub statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YUVASHRI-25&theme=tokyonight&utcOffset=5.5" width="49%" alt="GitHub productive time"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YUVASHRI-25&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
-# 🏆 Achievements
-
-🏅 **STEAMIFIED HACKATHON — 1st Place**
-
-🏆 **HackZen ’26 — 1st Place**
-*Computer Vision | Creozen Ltd.*
-
-🥉 **TSM-TECHNOVA 2026 — 3rd Place**
-*AI Innovation Challenge | TSM*
-
----
-
-# 📜 Certifications
-
-🏢 **NVIDIA — Deploying RAG Pipelines for Production at Scale**
-
-🎥 **NVIDIA — Building Real-Time Video AI Applications**
-
-🧠 **NVIDIA — Getting Started with Deep Learning**
-
-☁️ **NPTEL — Cloud Computing**
-
-🌐 **NPTEL — Internet of Things**
-
----
-
-# 📫 Connect With Me
+## `07` — EVERY CONTRIBUTION COUNTS
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
+</p>
 
-<a href="mailto:yuvashri195@gmail.com">
-<img src="https://img.shields.io/badge/Email-yuvashri195%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/YUVASHRI-25">
-<img src="https://img.shields.io/badge/GitHub-YUVASHRI--25-black?style=for-the-badge&logo=github"/>
-</a>
+## `08` — LET'S CONNECT & CREATE
 
-<a href="https://www.linkedin.com/in/yuvashri-m25/">
-<img src="https://img.shields.io/badge/LinkedIn-Yuvashri%20M-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+I'm always interested in connecting with people who enjoy AI research, building projects, solving challenging problems, and exploring new technologies.
 
-<a href="https://leetcode.com/u/YUVASHRI_01/">
-<img src="https://img.shields.io/badge/LeetCode-YUVASHRI__01-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="mailto:yuvashri195@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yuvashri"/></a>
+  <a href="https://www.linkedin.com/in/yuvashri-m25/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="https://github.com/YUVASHRI-25"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects"/></a>
 </p>
 
 ---
 
 <p align="center">
-✨ <i>Learning. Building. Solving. Growing.</i> 🚀
+  <b>THINK DEEPLY. BUILD INTELLIGENTLY. KEEP EVOLVING.</b>
 </p>
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:5A189A&height=100&section=footer" width="100%" alt="Decorative footer"/>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by. The best things are still being built. ✦</sub>
 </p>
