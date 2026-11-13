@@ -12,17 +12,12 @@
 
 <br/><br/>
 
-<a href="https://github.com/YUVASHRI-25">
-<img src="https://komarev.com/ghpvc/?username=YUVASHRI-25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</a>
 <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-00D4FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MINDSET-Always%20Building-8A2BE2?style=for-the-badge"/>
 
 </div>
 
 ---
-
-<!-- ABOUT ME -->
 
 ## `01` — WHO AM I?
 
